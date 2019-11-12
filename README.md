@@ -1,2 +1,2 @@
 # Skills-Fix
-휴대폰 수리 사이트 디자인
+![1과제_1440_index](https://user-images.githubusercontent.com/50132941/68676463-72aa7700-059d-11ea-9b3c-070d63aa8de0.png)

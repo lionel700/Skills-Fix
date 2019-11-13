@@ -1,5 +1,5 @@
 # Skills-Fix
-> If you want English README.md, Click [here](https://github.com/diayoak/Graphic-Tool/blob/master/README_EN.md).
+> If you want English README.md, Click [here](https://github.com/diayoak/Skills-Fix/blob/master/README_EN.md).
 
 Introduction
 =============
